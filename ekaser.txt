@@ -1,1 +1,1 @@
-"a text file created for this git tutorial" 
+"example text file for git tutorial" 
